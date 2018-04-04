@@ -7,9 +7,7 @@ There are two versions here, one is an .exe that has no requirements, but is slo
 
 You need Python 3 and SortWare 1.2.0.142 (it is not tested on other versions, but probably works).
 
-Move the script or the .exe into the SortLayout folder. E.g. “C:\Users\Public\Documents\BD\Sortware\SortLayout”.
-
-Create a subfolder called 'LatSqMultiSample'
+Move the script or the .exe into the SortLayout folder. E.g. “C:\Users\Public\Documents\BD\Sortware\SortLayout” and create a subfolder called 'LatSqMultiSample' 
 
 ### What are the default layouts?
 The default layouts were created by Stephan Lorenz of the Sanger Institute's Single Cell Facility.  They are designed using the 'Latin Square' principle where the populations are distributed across  rows and columns to minimise batch effect.
