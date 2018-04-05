@@ -14,6 +14,8 @@ Move the script or the .exe into the SortLayout folder. E.g. “C:\Users\Public\
 ### What are the default layouts?
 The default layouts were created by Stephan Lorenz of the Sanger Institute's Single Cell Facility.  They are designed using the 'Latin Square' principle where the populations are distributed across  rows and columns to minimise batch effect.
 
+![Image of default layouts](https://github.com/SangerCytometry/Influx_auto_sort_template/blob/master/default%20layouts.png)
+
 ### Multiple populations onto one plate
 After completion of your normal setup and gating routine:
 1. Open a 96 well or 384 well sort layout
