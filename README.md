@@ -2,6 +2,8 @@
 ## AKA Latin Square Generator
 This program applies predefined sort templates to your BD Influx workspace.  It can also take designs from Excel and apply them to your sort.
 
+Short instructuional video: https://youtu.be/UBteDBGskEE
+
 ### Installation
 There are two versions here, one is an .exe that has no requirements, but is slow (as in it takes 2 seconds to start).  The other is the Python script that is fast, but requires you to install openpyxl first.  To do this use `pip install openpyxl` in Anaconda prompt or `python -m pip install openpyxl` in windows CMD.  If neither works ask the internet 'how to install Python packages'.
 
